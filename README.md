@@ -61,3 +61,4 @@ Criação de Tag com git tag -a v1.0 -m "minha primeira tag" e para verificaçã
 Para empurrar tags ao remoto usa-se git push origin --tags.
 
 E por fim, acessando o GitHub consegue-se ver a tag criada e todas as alterações realizadas para este repositório remoto.
+Esse breve relatório de etapas salvo aqui também foi salvo na pasta local também usando o git pull no Git Bash.
