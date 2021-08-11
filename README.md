@@ -3,7 +3,7 @@ Repositório versões e colaborações
 
 Readme de exemplo. Teste.
 
-================================================================
+===========================================
 Foram utilizados os seguintes comandos para cada etapa:
 
 Desafio 1
