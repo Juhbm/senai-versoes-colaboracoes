@@ -3,4 +3,6 @@ Repositório versões e colaborações
 
 Readme de exemplo. Teste.
 
+
 Lembrei do comando: git commit.
+Lembrei do comando: git status.
