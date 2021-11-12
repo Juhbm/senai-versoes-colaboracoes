@@ -41,7 +41,7 @@ Autorização do usuário no meu caso foi realizada manualmente, buscando pastas
 
 Após autorizado, as informações do repositório local foram publicadas no repositório remoto.
 
-Foi realizado o git pull para puxar infromações do remoto para o local e realizado um .gitignore para impedir que uma alteração seja monitorada e salvando essa alteração com git commit comentado.
+Foi realizado o git pull para puxar informações do remoto para o local e realizado um .gitignore para impedir que uma alteração seja monitorada e salvando essa alteração com git commit comentado.
 
 Foi criado um README.md no repositório remoto para simulação de alterações feita por outro programador.
 
